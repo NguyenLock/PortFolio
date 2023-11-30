@@ -9,7 +9,7 @@ function Home() {
             <h3>Hi, Everyone!</h3>
             <h1> I'm <span>John Marston(Nguyen Tan Loc)</span></h1>
             <h3>FrontEnd Developer</h3><br/>
-            <p>Newbie FrontEnd Developer with 1 Year Experience<br/>
+            <p>Newbie FrontEnd Developer with 6 months experience<br/>
             Practice to create a website and improve my frontend Skills.
             </p>
         </div>
